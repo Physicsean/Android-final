@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Epic Systems Corporation//MyChart//EN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Au2IDv10jDxkyXJymq9+Ig==@myhealth.atriushealth.org
+ORGANIZER;CN=MyHealth Online:DoNotReply-MyHealth@AtriusHealth.org
+DTSTAMP:20191127T162013Z
+DTSTART:20191209T192000Z
+DTEND:20191209T194000Z
+SUMMARY;LANGUAGE=en-US:Initial Specialty Visit with Alan Ertel\, MD
+LOCATION;LANGUAGE=en-US:40 Holland Street\, Davis Square\, Somerville MA 02144-2705
+DESCRIPTION;LANGUAGE=en-US:Phone: 617-629-6220\n\n\nPlease arrive 15 minutes prior to appointment to complete any necessary \npaperwork. 
+END:VEVENT
+END:VCALENDAR
